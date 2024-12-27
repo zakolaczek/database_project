@@ -20,7 +20,7 @@ class Morphology:
         self.ldl = float(ldl)
         self.glk = float(glk)
     def to_list(self):
-        return (self.date, self.time, self.person_id, self.wbc, self.rbc, self.hmg, self.hmk, self.plt, self.tot, self.hdl, self.ldl, self.glk)
+        return (self.person_id, self.date, self.time, self.wbc, self.rbc, self.hmg, self.hmk, self.plt, self.tot, self.hdl, self.ldl, self.glk)
 
 with open(os.path.join("assets", "morph-group.csv"), "r") as file:
     data = file.readlines()
