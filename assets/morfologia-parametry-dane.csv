@@ -1,0 +1,11 @@
+# Format pliku zawierającego wartości parametrów krwi
+# dscr                  name    lsl     usl     units
+Krwinki_białe_WBC       WBC     4.0     10.0    K/uL 
+Krwinki_czerwone_RBC    RBC     4.0     5.7     M/uL 
+Hemoglobina             HMG     13.0    18.0    g/dl 
+Hemakrotyt              HMK     40.0    54.0    %    
+Płytki_krwi             PLT     130     400     K/uL 
+Cholesterol_całkowity   TOT     115     190     mg/dl
+Cholesterol_HDL         HDL     40      200     mg/dl
+Cholesterol_LDL         LDL     50      115     mg/dl
+Glukoza                 GLK     70      99      mg/dl
