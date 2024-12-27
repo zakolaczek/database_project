@@ -98,5 +98,5 @@ else:
 for key, value in output.items():
     to_json[key] = value.to_dictionary()
 
-with open(os.path.join("Output", "score.json"), "w") as file:
+with open(os.path.join("output", "score.json"), "w") as file:
     json.dump(to_json, file, indent=4)

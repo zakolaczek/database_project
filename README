@@ -1,0 +1,17 @@
+Wszystkie pliki skryptowe znajdują się w folderze scripts
+
+Podział plików ze względu na funkcję i zadanie:
+
+ZADANIE 1:
+first_exercise.py ==> generacja .json spełniającego założenia zadania
+
+ZADANIE 2:
+create_database.py ==> utworzenie 3-tabelowej bazy danych
+insert_personal.py ==> wprowadzenie do bazy danych danych personalnych
+insert_pressure.py ==> wprowadzenie do bazy danych badań ciśnienia
+insert_morphology.py ==> wprowadzenie do bazy danych badań morfologii
+high_pressure.py ==> wyświetlenie na ekranie listy pacjentów zagrożonych wysokim ciśnieniem
+wrong_morph.py ==> wyświetlenie na ekranie listy pacjentów ze złymi wynikami morfologii
+avg_pressure.py ==> wyświetlenie na ekranie średnich wartości ciśnienia dla danego numeru pesel
+
+W razie pytań / problemów proszę o kontakt bartosz.sawczuk.programmer@gmail.com
